@@ -1,16 +1,16 @@
-import java.util.Scanner ;
-public class pattern2 {
-    static void print2(int n){
+import java.util.Scanner;
+public class pattern5 {
+    static void print5(int n){
         for(int i=1; i<=n; i++){
-            for(int j=1; j<=i; j++){
+            for(int j=1; j<=n-i+1; j++){
                 System.out.print("* ");
             }
             System.out.println();
         }
     }
     public static void main(String[] args) {
-        Scanner sc = new java.util.Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        print2(n);
+        print5(n);
     }
 }
