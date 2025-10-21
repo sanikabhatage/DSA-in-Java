@@ -15,16 +15,6 @@ Each topic includes approaches, optimized solutions, and practical examples for 
 ## 📚 Topics Covered
 
 - Patterns
-- Arrays & Strings  
-- Linked Lists (Singly, Doubly, Circular)  
-- Stacks & Queues  
-- Recursion & Backtracking  
-- Searching & Sorting Algorithms  
-- Trees (Binary, BST, Traversals)  
-- Graphs (BFS, DFS, Shortest Path)  
-- Heaps & Priority Queues  
-- Dynamic Programming  
-- Hashing & Maps
 
 ---
 
