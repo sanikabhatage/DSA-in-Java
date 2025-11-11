@@ -10,7 +10,10 @@ public class pattern2 {
     }
     public static void main(String[] args) {
         Scanner sc = new java.util.Scanner(System.in);
-        int n = sc.nextInt();
-        print2(n);
+        int t = sc.nextInt();
+        for(int i=0; i<t; i++){
+            int n = sc.nextInt();
+            print2(n);
+        }
     }
 }

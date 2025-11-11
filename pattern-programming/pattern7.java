@@ -16,7 +16,10 @@ public class pattern7 {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        print7(n);
+        int t = sc.nextInt();
+        for(int i=0; i<t; i++){
+            int n = sc.nextInt();
+            print7(n);
+        }
     }
 }
